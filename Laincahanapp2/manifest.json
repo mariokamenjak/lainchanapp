@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.mkamenjak77.lainchanapp",
+    "description": "description of Laincahanapp2",
+    "architecture": "all",
+    "title": "Laincahanapp2",
+    "hooks": {
+        "lainchanapp": {
+            "apparmor": "lainchanapp.apparmor",
+            "desktop": "lainchanapp.desktop"
+        }
+    },
+    "version": "0.47",
+    "maintainer": "Mario Kamenjak <mkamenjak77@gmail.com>",
+    "framework": "ubuntu-sdk-14.10"
+}

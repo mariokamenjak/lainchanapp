@@ -5,10 +5,10 @@
 from autopilot.matchers import Eventually
 from testtools.matchers import Equals
 
-import Lainchanapp
+import Laincahanapp2
 
 
-class MainViewTestCase(Lainchanapp.ClickAppTestCase):
+class MainViewTestCase(Laincahanapp2.ClickAppTestCase):
     """Generic tests for the Hello World"""
 
     def test_initial_label(self):
