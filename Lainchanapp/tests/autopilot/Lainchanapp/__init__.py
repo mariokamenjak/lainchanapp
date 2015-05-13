@@ -12,7 +12,7 @@ from testtools.matchers import Equals
 from ubuntuuitoolkit import base
 
 
-PACKAGE_ID = 'laincahanapp2.mkamenjak77'
+PACKAGE_ID = 'lainchanapp.username'
 
 
 def get_path_to_source_root():
@@ -44,7 +44,7 @@ class ClickAppTestCase(base.UbuntuUIToolkitAppTestCase):
 
     """Common test case that provides several useful methods for the tests."""
 
-    project_name = 'Laincahanapp2'
+    project_name = 'Lainchanapp'
 
     def launch_application(self):
         app_qml_source_location = self._get_app_qml_source_path()

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=lainchanapp
 Exec=qmlscene $@ Main.qml
-Icon=Laincahanapp2.png
+Icon=Lainchanapp.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true

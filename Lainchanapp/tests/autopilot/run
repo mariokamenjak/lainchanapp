@@ -7,6 +7,6 @@ fi
 
 SCRIPTPATH=`dirname $0`
 pushd ${SCRIPTPATH}
-autopilot3 run Laincahanapp2
+autopilot3 run Lainchanapp
 popd
 

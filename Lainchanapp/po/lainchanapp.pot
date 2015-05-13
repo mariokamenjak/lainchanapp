@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-07 23:15+0200\n"
+"POT-Creation-Date: 2015-05-13 23:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,18 +25,18 @@ msgstr ""
 msgid "Please choose a file"
 msgstr ""
 
-#: PageWithBottomEdge.qml:243
+#: PageWithBottomEdge.qml:442
 msgid "Home"
 msgstr ""
 
-#: PageWithBottomEdge.qml:259
+#: PageWithBottomEdge.qml:458
 msgid "/cyb"
 msgstr ""
 
-#: PageWithBottomEdge.qml:272
+#: PageWithBottomEdge.qml:471
 msgid "/lambda"
 msgstr ""
 
-#: PageWithBottomEdge.qml:284
+#: PageWithBottomEdge.qml:483
 msgid "/tech"
 msgstr ""
